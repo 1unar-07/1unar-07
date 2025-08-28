@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final year project (One Pixel Attack on Cancer Classifier) and AI-driven dashboards.<br>👯 I’m looking to collaborate on AI/ML projects, creative full-stack apps, and open-source work.<br>🤝 I’m looking for help with strengthening advanced DSA skills and optimizing ML models.<br>🌱 I’m currently learning dynamic programming, compiler design, and system design.<br>💬 Ask me about frontend development with React + Tailwind, AI dashboards, and interview prep.<br>⚡ Fun fact: I started coding from scratch and now enjoy explaining complex concepts in simple ways.
+🔭 I’m currently working on Data Structures and AI-driven websites.<br>👯 I’m looking to collaborate on AI/ML projects, creative full-stack apps, and open-source work.<br>🤝 I’m looking for help with strengthening advanced DSA skills and optimizing ML models.<br>🌱 I’m currently learning dynamic programming, compiler design, and system design.<br>💬 Ask me about frontend development with React + Tailwind, AI dashboards, and interview prep.<br>⚡ Fun fact: I started coding from scratch and now enjoy explaining complex concepts in simple ways.
 
 
 ## 🌐 Socials:
